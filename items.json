@@ -1,0 +1,56 @@
+[
+    {
+      "id": 0,
+      "name": "ASUS X555QG",
+      "price": 15000,
+      "quantity": 0,
+      "quality": "fine",
+      "vendor": "ASUS",
+      "category": "Laptop"
+    },
+    {
+      "id": 1,
+      "name": "a10-4600m",
+      "price": 9000,
+      "quantity": 15,
+      "quality": "excellent",
+      "vendor": "AMD",
+      "category": "CPU"
+    },
+    {
+      "id": 2,
+      "name": "Kingston Fury DDR4-3200 16384",
+      "price": 3000,
+      "quantity": 20,
+      "quality": "good",
+      "vendor": "Kingston",
+      "category": "RAM"
+    },
+    {
+      "id": 3,
+      "name": "IdeaPad 3 15IIL05",
+      "price": 18899,
+      "quantity": 15,
+      "quality": "good",
+      "vendor": "Lenovo",
+      "category": "Laptop"
+    },
+    {
+      "id": 4,
+      "name": "Ryzen 9 5900X",
+      "price": 15700,
+      "quantity": 15,
+      "quality": "excellent",
+      "vendor": "AMD",
+      "category": "CPU"
+    },
+    {
+      "id": 5,
+      "name": "Value Ram SO-DIMM 8Gb DDR4 PC2",
+      "price": 1440,
+      "quantity": 20,
+      "quality": "fine",
+      "vendor": "Kingston",
+      "category": "RAM"
+    }
+  ]
